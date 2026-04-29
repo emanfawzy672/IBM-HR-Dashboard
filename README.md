@@ -1,8 +1,4 @@
 # IBM-HR-Dashboard
-
-----------------------------------------------------------------------------
-Employee Performance | HR Metrics | DAX | Data Modeling | Dashboard Design
-
 ----------------------------------------------------------------------------
 🔹 Overview
 
